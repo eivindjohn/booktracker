@@ -9,6 +9,7 @@
 const FIREBASE_CONFIG = {
   apiKey: "AIzaSyCA_BtNApJ3po9Vlh8KWY7hXN8QQTS-BIA",
   authDomain: "booktrackerdatabase.firebaseapp.com",
+  databaseURL: "https://booktrackerdatabase-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "booktrackerdatabase",
   storageBucket: "booktrackerdatabase.firebasestorage.app",
   messagingSenderId: "317901356294",
